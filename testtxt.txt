@@ -6,3 +6,4 @@ merge check
 second check
 third check
 locale check
+remote check
