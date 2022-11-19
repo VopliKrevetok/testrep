@@ -4,3 +4,4 @@ vtoroe izmenenie
 pervoe izmenenie s remote
 check rename
 check second rename
+test deleting and rename
