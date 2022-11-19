@@ -2,3 +2,4 @@
 pervoe izmenenie
 vtoroe izmenenie
 pervoe izmenenie s remote
+merge check
