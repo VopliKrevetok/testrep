@@ -7,4 +7,8 @@ second check
 third check
 locale check
 remote check
+<<<<<<< HEAD
 pull
+=======
+pull check
+>>>>>>> b3890526ef38f876109d845164c05f1bed5b97ef
