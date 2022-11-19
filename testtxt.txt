@@ -4,3 +4,4 @@ vtoroe izmenenie
 pervoe izmenenie s remote
 merge check
 second check
+third check
