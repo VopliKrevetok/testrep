@@ -7,3 +7,4 @@ second check
 third check
 locale check
 remote check
+pull check
